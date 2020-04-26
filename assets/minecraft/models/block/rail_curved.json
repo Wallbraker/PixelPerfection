@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#rail",
-		"rail": "blocks/rail_normal_turned"
+		"rail": "block/rail_normal_turned"
 	},
 	"elements": [
 		{	"from": [0, 0, 0],

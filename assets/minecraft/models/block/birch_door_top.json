@@ -2,9 +2,9 @@
 	"parent": "block/door_top",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/door_birch_upper",
-        "side": "blocks/door_birch_side",
-        "all": "blocks/door_birch_upper"
+        "particle": "block/birch_door_top",
+        "side": "block/birch_door_side",
+        "all": "block/birch_door_top"
     },
     "elements": [
         {

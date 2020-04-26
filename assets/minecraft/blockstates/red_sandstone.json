@@ -1,9 +1,9 @@
 {
     "variants": {
-        "normal": [
-			{ "model": "red_sandstone_normal" },
-			{ "model": "sandstone/normal/red/1" },
-			{ "model": "sandstone/normal/red/2" }
+        "": [
+			{ "model": "block/red_sandstone" },
+			{ "model": "block/sandstone/normal/red/1" },
+			{ "model": "block/sandstone/normal/red/2" }
 		]
     }
 }

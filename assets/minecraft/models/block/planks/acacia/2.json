@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/planks_acacia2"
+        "all": "block/acacia_planks2"
     }
 }

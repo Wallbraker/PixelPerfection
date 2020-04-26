@@ -2,8 +2,8 @@
 	"__createdwith": "opl's Model Maker",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "blocks/ladder",
-		"texture": "blocks/ladder"
+		"particle": "block/ladder",
+		"texture": "block/ladder"
 	},
 	"elements": [
 		{	"from": [0, 0, 15.2],

@@ -2,9 +2,10 @@
 	"parent": "block/block",
     "ambientocclusion": false,
     "textures": {
-        "top": "blocks/anvil_top_damaged_0",
-        "body": "blocks/anvil_base",
-        "side": "blocks/anvil_side"
+        "particle": "block/anvil_base",
+		"top": "block/anvil_top",
+        "body": "block/anvil_base",
+        "side": "block/anvil_side"
     },
     "elements": [
         {

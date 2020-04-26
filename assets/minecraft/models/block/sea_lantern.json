@@ -1,6 +1,6 @@
 {
-    "parent": "block/cube_all - noshade",
+    "parent": "block/unshaded_cube_all",
     "textures": {
-        "all": "blocks/sea_lantern"
+        "all": "block/sea_lantern"
     }
 }

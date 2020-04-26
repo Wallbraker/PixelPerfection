@@ -2,9 +2,9 @@
 	"parent": "block/door_bottom",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/door_jungle_lower",
-        "0": "blocks/door_jungle_side",
-        "1": "blocks/door_jungle_lower"
+        "particle": "block/jungle_door_bottom",
+        "0": "block/jungle_door_side",
+        "1": "block/jungle_door_bottom"
     },
     "elements": [
         {

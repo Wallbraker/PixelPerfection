@@ -1,11 +1,6 @@
 {
-    "parent": "block/grassextra",
+    "parent": "block/tinted_cross",
     "textures": {
-        "particle": "blocks/dirt",
-        "bottom": "blocks/dirt",
-        "top": "blocks/grass_top",
-		"topextra": "blocks/grass_topextra",
-        "side": "blocks/grass_side",
-        "overlay": "blocks/grass_side_overlay"
+        "cross": "block/grass2"
     }
 }

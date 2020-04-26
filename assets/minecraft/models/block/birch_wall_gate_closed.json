@@ -1,6 +1,6 @@
 {
-    "parent": "block/wall_gate_closed",
+    "parent": "block/template_fence_gate",
     "textures": {
-        "texture": "blocks/fence_gate_birch"
+        "texture": "block/birch_fence_gate"
     }
 }

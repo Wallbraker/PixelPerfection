@@ -1,9 +1,8 @@
 {
-	"__createdwith": "opl's Model Maker",
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#rail",
-		"rail": "blocks/rail_normal"
+		"rail": "block/rail"
 	},
 	"elements": [
 		{	"from": [0, 8.25, 1],

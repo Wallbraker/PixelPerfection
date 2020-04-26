@@ -1,9 +1,8 @@
 {
-	"__createdwith": "opl's Model Maker",
 	"textures": {
-		"0": "blocks/bookshelf2",
-		"1": "blocks/bookshelf_top",
-		"particle": "blocks/bookshelf"
+		"0": "block/bookshelf2",
+		"1": "block/bookshelf_top",
+		"particle": "block/bookshelf"
 	},
     "elements": [
         {

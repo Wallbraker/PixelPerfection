@@ -1,6 +1,6 @@
 {
     "parent": "block/leaves",
     "textures": {
-        "all": "blocks/leaves_spruce1"
+        "all": "block/spruce_leaves1"
     }
 }

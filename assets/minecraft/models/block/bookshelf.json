@@ -1,9 +1,9 @@
 {
 	"parent": "block/cube",
     "textures": {
-        "particle": "blocks/bookshelf",
-        "0": "blocks/bookshelf",
-        "1": "blocks/bookshelf_top"
+        "particle": "block/bookshelf",
+        "0": "block/bookshelf",
+        "1": "block/bookshelf_top"
     },
     "elements": [
         {

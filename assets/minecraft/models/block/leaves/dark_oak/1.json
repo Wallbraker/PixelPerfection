@@ -1,6 +1,6 @@
 {
-    "parent": "block/leaves - nobiome",
+    "parent": "block/untinted_leaves",
     "textures": {
-        "all": "blocks/leaves_big_oak1"
+        "all": "block/dark_oak_leaves1"
     }
 }
